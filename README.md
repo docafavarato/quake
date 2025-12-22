@@ -83,7 +83,7 @@ Decisões importantes:
   
 ---
 
-### Arma favorita (`favorite_weapon`)
+### Arma favorita
 
 A arma favorita é definida com o auxílio de uma variável temporária `used_weapons`, que armazena todas as armas utilizadas em kills de um jogador. Depois, a arma com maior frequência na lista é selecionada como a `favorite_weapon`
 
@@ -94,3 +94,21 @@ A arma favorita é definida com o auxílio de uma variável temporária `used_we
 Itens são capturados a partir dos eventos `Item:` e armazenados na ordem em que aparecem no log. Optei por não manter itens duplicados.
 
 ---
+
+### Parquet
+
+Utilizei as bibliotecas `pandas` e `pyarrow` para gerar o arquivo parquet, e o esquema foi modelado conforme a seguinte estrutura:
+```text
+root
+ |-- game: int32
+ |-- map: string
+ |-- total_kills: int32
+ |-- players: list<struct>
+ |    |-- id: int32
+ |    |-- current_name: string
+ |    |-- old_names: list<string>
+ |    |-- kills: int32
+ |    |-- deaths: int32
+ |    |-- suicides: int32
+ |    |-- favorite_weapon: string
+ |    |-- collected_items: list<string>
