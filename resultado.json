@@ -1,0 +1,2091 @@
+[
+    {
+        "game": 1,
+        "map": "q3dm17",
+        "total_kills": 0,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 2,
+        "map": "q3dm17",
+        "total_kills": 1,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 10,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_armor_body",
+                    "ammo_shells",
+                    "item_health_large",
+                    "item_quad",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "weapon_shotgun",
+                    "item_health_mega"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Mocinha",
+                "old_names": [
+                    "Dono da Bola"
+                ],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 3,
+        "map": "q3dm17",
+        "total_kills": 1,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Dono da Bola",
+                "old_names": [
+                    "Mocinha"
+                ],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_health_large",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 3,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "item_health_large",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 4,
+        "map": "q3dm17",
+        "total_kills": 80,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 16,
+                "deaths": 31,
+                "suicides": 4,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "ammo_rockets",
+                    "weapon_shotgun",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_bullets",
+                    "item_quad",
+                    "item_armor_body",
+                    "item_health"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 27,
+                "deaths": 23,
+                "suicides": 0,
+                "collected_items": [
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "item_quad",
+                    "item_armor_body",
+                    "item_health_large",
+                    "ammo_bullets",
+                    "ammo_slugs",
+                    "weapon_shotgun",
+                    "item_health_mega"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 22,
+                "deaths": 27,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_armor_body",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "weapon_railgun",
+                    "item_health_large",
+                    "ammo_bullets",
+                    "item_quad",
+                    "item_health"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 15,
+                "deaths": 24,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_body",
+                    "ammo_rockets",
+                    "item_armor_shard",
+                    "item_health_large",
+                    "item_armor_combat",
+                    "weapon_railgun",
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "item_quad"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 5,
+        "map": "q3dm17",
+        "total_kills": 7,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Zeh",
+                "old_names": [
+                    "Dono da Bola"
+                ],
+                "kills": 2,
+                "deaths": 5,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_rockets",
+                    "item_armor_body",
+                    "weapon_railgun",
+                    "item_health_large",
+                    "ammo_slugs",
+                    "ammo_shells",
+                    "weapon_shotgun"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 3,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 2,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "item_armor_body",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 3,
+                "deaths": 8,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_body",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_health_mega",
+                    "weapon_railgun",
+                    "ammo_rockets",
+                    "weapon_shotgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            }
+        ]
+    },
+    {
+        "game": 6,
+        "map": "q3dm17",
+        "total_kills": 25,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Oootsimo",
+                "old_names": [
+                    "Fasano Agai"
+                ],
+                "kills": 9,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_armor_body",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "weapon_shotgun",
+                    "item_health_large",
+                    "ammo_shells"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 4,
+                "deaths": 7,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "item_quad",
+                    "weapon_shotgun",
+                    "item_armor_shard",
+                    "ammo_slugs",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_SHOTGUN"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 8,
+                "deaths": 8,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "item_quad",
+                    "item_armor_body",
+                    "item_health_large",
+                    "item_armor_shard",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 2,
+                "deaths": 5,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Mal",
+                "old_names": [
+                    "UnnamedPlayer",
+                    "Maluquinho"
+                ],
+                "kills": 1,
+                "deaths": 4,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "item_armor_combat",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 3,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_armor_body",
+                    "ammo_shells",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 7,
+        "map": "q3dm17",
+        "total_kills": 95,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 24,
+                "deaths": 19,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_bullets",
+                    "item_health_large",
+                    "item_quad",
+                    "weapon_railgun",
+                    "weapon_shotgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 3,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 18,
+                "deaths": 15,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_quad",
+                    "weapon_shotgun",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_bullets",
+                    "item_health_large",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 13,
+                "deaths": 21,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "item_armor_body",
+                    "weapon_railgun",
+                    "item_health",
+                    "item_quad",
+                    "weapon_shotgun",
+                    "item_armor_combat",
+                    "ammo_slugs",
+                    "ammo_rockets",
+                    "ammo_shells",
+                    "item_armor_shard",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 12,
+                "deaths": 26,
+                "suicides": 2,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "item_armor_shard",
+                    "item_quad",
+                    "weapon_shotgun",
+                    "item_armor_combat",
+                    "item_health_large",
+                    "item_health"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 9,
+                "deaths": 28,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "ammo_rockets",
+                    "item_quad",
+                    "item_armor_shard",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 19,
+                "deaths": 19,
+                "suicides": 3,
+                "collected_items": [
+                    "item_armor_body",
+                    "weapon_rocketlauncher",
+                    "item_quad",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "weapon_shotgun",
+                    "item_health_large",
+                    "item_armor_shard",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 8,
+                "current_name": "Chessus",
+                "old_names": [
+                    "Chessus!"
+                ],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 8,
+        "map": "q3dm17",
+        "total_kills": 69,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 16,
+                "deaths": 14,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "weapon_rocketlauncher",
+                    "ammo_bullets",
+                    "item_armor_shard",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 24,
+                "deaths": 11,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_health_large",
+                    "item_quad",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 15,
+                "deaths": 11,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "ammo_bullets",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "item_armor_combat",
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "item_armor_body",
+                    "ammo_slugs",
+                    "item_health",
+                    "item_armor_shard",
+                    "item_quad"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 3,
+                "deaths": 16,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_railgun",
+                    "item_armor_shard",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_armor_combat",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 20,
+                "suicides": 1,
+                "collected_items": [
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "item_armor_body",
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "item_quad",
+                    "item_armor_shard",
+                    "ammo_bullets",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 11,
+                "deaths": 17,
+                "suicides": 1,
+                "collected_items": [
+                    "item_armor_body",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_health_large",
+                    "item_armor_combat",
+                    "ammo_rockets",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 9,
+        "map": "q3dm17",
+        "total_kills": 50,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 8,
+                "deaths": 12,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_shotgun",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_health_large",
+                    "item_quad",
+                    "weapon_railgun",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Dono da Bola",
+                "old_names": [
+                    "Isgalamido"
+                ],
+                "kills": 2,
+                "deaths": 4,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_shotgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 15,
+                "deaths": 15,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "ammo_slugs",
+                    "weapon_railgun",
+                    "item_armor_shard",
+                    "weapon_shotgun",
+                    "item_health_large",
+                    "item_armor_body",
+                    "item_quad",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Chessus",
+                "old_names": [
+                    "Dono da Bola",
+                    "Chessus!"
+                ],
+                "kills": 11,
+                "deaths": 8,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "ammo_slugs",
+                    "weapon_railgun",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 6,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 6,
+                "deaths": 15,
+                "suicides": 1,
+                "collected_items": [
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "weapon_rocketlauncher",
+                    "item_armor_body",
+                    "item_health_large",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 8,
+                "deaths": 14,
+                "suicides": 3,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_quad",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "item_armor_body",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 10,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 41,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 8,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_TELEFRAG"
+            },
+            {
+                "id": 3,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 5,
+                "deaths": 3,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_health",
+                    "item_quad"
+                ],
+                "favorite_weapon": "MOD_TELEFRAG"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 9,
+                "deaths": 5,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "item_health_large",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "weapon_bfg",
+                    "item_armor_body",
+                    "item_health"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 5,
+                "current_name": "Chessus",
+                "old_names": [],
+                "kills": 6,
+                "deaths": 9,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "MOD_TELEFRAG"
+            },
+            {
+                "id": 6,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 6,
+                "deaths": 14,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "weapon_bfg",
+                    "item_health",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_TELEFRAG"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 5,
+                "deaths": 8,
+                "suicides": 0,
+                "collected_items": [
+                    "item_quad",
+                    "weapon_rocketlauncher",
+                    "weapon_bfg",
+                    "weapon_railgun",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_TELEFRAG"
+            },
+            {
+                "id": 8,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 9,
+                "deaths": 13,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_railgun",
+                    "item_armor_body",
+                    "weapon_bfg",
+                    "weapon_rocketlauncher",
+                    "item_health"
+                ],
+                "favorite_weapon": "MOD_TELEFRAG"
+            }
+        ]
+    },
+    {
+        "game": 11,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 11,
+        "players": [
+            {
+                "id": 3,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 5,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "weapon_bfg",
+                    "item_armor_body",
+                    "item_health",
+                    "team_CTF_blueflag"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 6,
+                "deaths": 4,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "item_armor_body",
+                    "weapon_bfg",
+                    "ammo_rockets",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_BFG_SPLASH"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_bullets",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "item_health_large",
+                    "team_CTF_redflag",
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 5,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 4,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "team_CTF_redflag",
+                    "item_health_large",
+                    "team_CTF_blueflag",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Chessus",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 3,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "team_CTF_redflag",
+                    "team_CTF_blueflag",
+                    "ammo_rockets",
+                    "weapon_bfg"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 4,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "team_CTF_blueflag",
+                    "ammo_rockets",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 8,
+                "current_name": "Mal",
+                "old_names": [
+                    "UnnamedPlayer"
+                ],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "team_CTF_redflag"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 12,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 112,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 24,
+                "deaths": 21,
+                "suicides": 2,
+                "collected_items": [
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "weapon_bfg",
+                    "team_CTF_redflag",
+                    "weapon_railgun",
+                    "team_CTF_blueflag",
+                    "item_health",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_BFG_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 11,
+                "deaths": 31,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "team_CTF_blueflag",
+                    "weapon_railgun",
+                    "item_health_large",
+                    "team_CTF_redflag",
+                    "weapon_bfg",
+                    "item_armor_body",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 12,
+                "deaths": 16,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "team_CTF_blueflag",
+                    "team_CTF_redflag",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "weapon_bfg",
+                    "item_health",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 21,
+                "deaths": 23,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "team_CTF_blueflag",
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "item_health_large",
+                    "team_CTF_redflag",
+                    "weapon_bfg",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Chessus",
+                "old_names": [],
+                "kills": 16,
+                "deaths": 24,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_bfg",
+                    "weapon_rocketlauncher",
+                    "team_CTF_redflag",
+                    "item_armor_body",
+                    "team_CTF_blueflag",
+                    "ammo_bullets",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 21,
+                "deaths": 19,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_railgun",
+                    "team_CTF_redflag",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "item_health_large",
+                    "team_CTF_blueflag"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 8,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 7,
+                "deaths": 26,
+                "suicides": 1,
+                "collected_items": [
+                    "team_CTF_redflag",
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "item_health_large",
+                    "team_CTF_blueflag",
+                    "ammo_rockets",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 13,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 3,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_bfg"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 3,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 2,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "item_health_large",
+                    "weapon_rocketlauncher",
+                    "weapon_bfg"
+                ],
+                "favorite_weapon": "MOD_BFG_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 1,
+                "suicides": 1,
+                "collected_items": [
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "team_CTF_redflag",
+                    "team_CTF_blueflag"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 6,
+                "current_name": "Chessus",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 8,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 14,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 77,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 25,
+                "deaths": 12,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "team_CTF_redflag",
+                    "item_health",
+                    "weapon_bfg",
+                    "team_CTF_blueflag",
+                    "item_armor_body",
+                    "ammo_bullets",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_BFG_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 8,
+                "deaths": 25,
+                "suicides": 1,
+                "collected_items": [
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "team_CTF_blueflag",
+                    "weapon_railgun",
+                    "item_armor_body",
+                    "team_CTF_redflag",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 4,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 11,
+                "deaths": 21,
+                "suicides": 1,
+                "collected_items": [
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "item_armor_body",
+                    "team_CTF_blueflag",
+                    "team_CTF_redflag",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "weapon_bfg",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 5,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 12,
+                "deaths": 11,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "team_CTF_redflag",
+                    "ammo_bullets",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "team_CTF_blueflag",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Chessus",
+                "old_names": [],
+                "kills": 10,
+                "deaths": 14,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "team_CTF_blueflag",
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "ammo_bullets",
+                    "team_CTF_redflag"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 8,
+                "deaths": 19,
+                "suicides": 4,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "team_CTF_blueflag",
+                    "weapon_railgun",
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "team_CTF_redflag",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 8,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 3,
+                "deaths": 20,
+                "suicides": 3,
+                "collected_items": [
+                    "item_health_large",
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "team_CTF_blueflag",
+                    "team_CTF_redflag",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 15,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 0,
+        "players": [
+            {
+                "id": 4,
+                "current_name": "Isgalamido",
+                "old_names": [
+                    "Zeh"
+                ],
+                "kills": 0,
+                "deaths": 3,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "item_armor_body",
+                    "team_CTF_redflag",
+                    "ammo_rockets",
+                    "ammo_bullets",
+                    "weapon_rocketlauncher",
+                    "team_CTF_blueflag"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 7,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 2,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [
+                    "Fasano Agai"
+                ],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 16,
+        "map": "Q3TOURNEY6_CTF",
+        "total_kills": 0,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 4,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 6,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 17,
+        "map": "q3dm17",
+        "total_kills": 3,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 3,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_health_large",
+                    "ammo_shells",
+                    "weapon_shotgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 4,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "weapon_rocketlauncher",
+                    "item_quad",
+                    "ammo_rockets",
+                    "ammo_slugs"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 4,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_body",
+                    "ammo_rockets",
+                    "item_quad",
+                    "weapon_railgun",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 6,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "weapon_railgun",
+                    "item_health",
+                    "item_armor_shard",
+                    "weapon_shotgun",
+                    "item_health_large",
+                    "item_armor_body",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 7,
+                "current_name": "Mal",
+                "old_names": [
+                    "UnnamedPlayer"
+                ],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "ammo_slugs",
+                    "item_quad",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 18,
+        "map": "q3dm17",
+        "total_kills": 5,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [
+                    "Dono da Bola"
+                ],
+                "kills": 1,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 4,
+                "current_name": "Dono da Bola",
+                "old_names": [
+                    "Isgalamido"
+                ],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 2,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 2,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "item_armor_body",
+                    "weapon_rocketlauncher",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 7,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 2,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_bullets",
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 19,
+        "map": "q3dm17",
+        "total_kills": 78,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 14,
+                "deaths": 12,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "item_armor_body",
+                    "item_quad",
+                    "item_armor_shard",
+                    "ammo_bullets",
+                    "ammo_slugs"
+                ],
+                "favorite_weapon": "MOD_RAILGUN"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 11,
+                "deaths": 14,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_health_large",
+                    "item_armor_combat",
+                    "ammo_bullets",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "item_quad"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 4,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 13,
+                "deaths": 15,
+                "suicides": 2,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_quad",
+                    "weapon_railgun",
+                    "item_health",
+                    "item_health_large",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_rockets"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 11,
+                "deaths": 17,
+                "suicides": 1,
+                "collected_items": [
+                    "item_armor_shard",
+                    "item_health_large",
+                    "item_armor_body",
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_armor_combat",
+                    "weapon_shotgun",
+                    "weapon_railgun",
+                    "item_quad"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 21,
+                "deaths": 18,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "ammo_rockets",
+                    "item_health_large",
+                    "ammo_bullets",
+                    "item_quad",
+                    "item_armor_body",
+                    "weapon_railgun",
+                    "item_armor_shard",
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 7,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 8,
+                "deaths": 19,
+                "suicides": 0,
+                "collected_items": [
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "weapon_shotgun",
+                    "weapon_rocketlauncher",
+                    "ammo_slugs",
+                    "ammo_shells",
+                    "item_health_large",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            }
+        ]
+    },
+    {
+        "game": 20,
+        "map": "q3dm17",
+        "total_kills": 2,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "item_armor_body",
+                    "ammo_rockets",
+                    "weapon_shotgun",
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "MOD_ROCKET"
+            },
+            {
+                "id": 4,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 1,
+                "deaths": 1,
+                "suicides": 1,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_health_large"
+                ],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 6,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 1,
+                "suicides": 0,
+                "collected_items": [],
+                "favorite_weapon": "none"
+            },
+            {
+                "id": 7,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 0,
+                "deaths": 0,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher"
+                ],
+                "favorite_weapon": "none"
+            }
+        ]
+    },
+    {
+        "game": 21,
+        "map": "q3dm17",
+        "total_kills": 108,
+        "players": [
+            {
+                "id": 2,
+                "current_name": "Isgalamido",
+                "old_names": [],
+                "kills": 19,
+                "deaths": 19,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_railgun",
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_quad",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_health_large",
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "item_armor_body"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 3,
+                "current_name": "Oootsimo",
+                "old_names": [],
+                "kills": 23,
+                "deaths": 18,
+                "suicides": 1,
+                "collected_items": [
+                    "item_armor_body",
+                    "item_health_large",
+                    "weapon_rocketlauncher",
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "ammo_rockets",
+                    "item_quad",
+                    "weapon_railgun"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 4,
+                "current_name": "Dono da Bola",
+                "old_names": [],
+                "kills": 14,
+                "deaths": 19,
+                "suicides": 2,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_health_large",
+                    "weapon_railgun",
+                    "item_health",
+                    "item_quad",
+                    "item_armor_body",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 5,
+                "current_name": "Assasinu Credi",
+                "old_names": [],
+                "kills": 19,
+                "deaths": 30,
+                "suicides": 3,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_armor_body",
+                    "item_health_large",
+                    "ammo_rockets",
+                    "weapon_railgun",
+                    "weapon_shotgun",
+                    "item_quad"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 6,
+                "current_name": "Zeh",
+                "old_names": [],
+                "kills": 21,
+                "deaths": 15,
+                "suicides": 0,
+                "collected_items": [
+                    "ammo_rockets",
+                    "weapon_rocketlauncher",
+                    "ammo_slugs",
+                    "weapon_railgun",
+                    "item_armor_shard",
+                    "item_armor_combat",
+                    "item_quad",
+                    "ammo_shells",
+                    "weapon_shotgun",
+                    "item_health_mega",
+                    "item_health_large",
+                    "ammo_bullets"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            },
+            {
+                "id": 7,
+                "current_name": "Mal",
+                "old_names": [],
+                "kills": 12,
+                "deaths": 30,
+                "suicides": 0,
+                "collected_items": [
+                    "weapon_rocketlauncher",
+                    "item_health_large",
+                    "weapon_shotgun",
+                    "ammo_shells",
+                    "item_quad",
+                    "ammo_rockets",
+                    "item_armor_body",
+                    "weapon_railgun",
+                    "item_armor_shard",
+                    "item_armor_combat"
+                ],
+                "favorite_weapon": "MOD_ROCKET_SPLASH"
+            }
+        ]
+    },
+    {
+        "game": 22,
+        "map": "q3dm17",
+        "total_kills": 0,
+        "players": []
+    }
+]
