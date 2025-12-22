@@ -56,47 +56,41 @@ A decisão foi separar as partidas exclusivamente com base nesse marcador, acumu
 
 ### Extração do mapa (`mapname`)
 
-O nome do mapa é extraído apenas da linha `InitGame`, utilizando a chave `mapname`, independentemente da ordem dos parâmetros.
+O nome do mapa é extraído apenas da linha `InitGame`, utilizando a chave `mapname`.
 
 ---
 
 ### Identificação de jogadores
 
 - Os jogadores são identificados pelo **ID numérico**, conforme aparece nos eventos `ClientConnect`
-- Caso um jogador apareça em um evento antes do `ClientConnect`, ele é criado sob demanda
-- O nome atual do jogador é atualizado a partir de `ClientUserinfoChanged`
+- O nome atual do jogador é atualizado a partir de `ClientUserinfoChanged`, guardando o nome antigo em uma variável.
 
 ---
 
-### Interpretação correta das mortes
+### Interpretação das mortes
 
 As regras adotadas foram:
 
 | Situação | Tratamento |
 |--------|-----------|
 | `killer == victim` | Suicídio |
-| `killer == 1022` (`<world>`) | Morte pelo ambiente |
+| `killer == <world>`) | Morte pelo ambiente |
 | `killer != victim` | Kill normal |
 
 Decisões importantes:
-- **World kills não contam como suicídio**
-- World kills incrementam apenas `deaths`
-- Apenas kills válidas incrementam `kills` e contam para `favorite_weapon`
+- World kills não contam como suicídio
+- World kills incrementam apenas `deaths`, ou seja, não são contabilizadas em `total_kills`
   
 ---
 
 ### Arma favorita (`favorite_weapon`)
 
-A arma favorita é definida como:
-- A arma com maior número de kills feitas pelo jogador
-- Apenas kills válidas entram no cálculo
-- Em caso de empate, qualquer arma com maior frequência é aceita
-- Se o jogador não matou ninguém, o campo é `null`
+A arma favorita é definida com o auxílio de uma variável temporária `used_weapons`, que armazena todas as armas utilizadas em kills de um jogador. Depois, a arma com maior frequência na lista é selecionada como a `favorite_weapon`
 
 ---
 
 ### Itens coletados
 
-Itens são capturados a partir dos eventos `Item:` e armazenados na ordem em que aparecem no log. Optei por manter itens duplicados, pois funciona como um histórico de coleta.
+Itens são capturados a partir dos eventos `Item:` e armazenados na ordem em que aparecem no log. Optei por não manter itens duplicados.
 
 ---
