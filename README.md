@@ -16,11 +16,12 @@ A partir do log, o sistema:
 
 - Python
 - Biblioteca PyArrow
+- Biblioteca Pandas
 
 ### Instalação das dependências
 
 ```bash
-pip install pyarrow
+pip install pyarrow pandas
 ```
 
 ---
@@ -28,15 +29,20 @@ pip install pyarrow
 ## Como executar
 
 1. Coloque o arquivo `Quake 1.log` no mesmo diretório do `main.py`
-2. Execute o script:
+2. Execute o script `main.py` para rodar o parser e gerar o parquet:
 
 ```bash
 python main.py
 ```
-
 3. Os seguintes arquivos serão gerados:
-   - `quake_games.json`
-   - `quake_games.parquet`
+   - `resultado.json`
+   - `resultado.parquet`
+
+4. Execute o script `analise.py` para gerar as análises:
+
+```bash
+python analise.py
+```
 
 ---
 
@@ -112,3 +118,31 @@ root
  |    |-- suicides: int32
  |    |-- favorite_weapon: string
  |    |-- collected_items: list<string>
+```
+
+### Análises
+As análises foram feitas com base no arquivo `resultado.parquet`.
+1. Ranking geral de kills:
+```text
+current_name
+Isgalamido        176.0
+Zeh               154.0
+Oootsimo          132.0
+Assasinu Credi    123.0
+Dono da Bola       88.0
+```
+
+2. Mapas com mais kills
+```text
+mapdm17            524
+Q3TOURNEY6_CTF    244
+Na
+```
+
+3. Armas mais utilizadas nos servidores
+```text
+favorite_weapon
+MOD_ROCKET_SPLASH    43
+MOD_ROCKET           14
+MOD_RAILGUN          11
+```
